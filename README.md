@@ -22,4 +22,4 @@ Unlike the auto reply feature in business version of whatsapp, where only a pre-
 
 3. Once everything is working fine, train the bot with __Training_chat_bot.py__.
 
-    Note that you can do this in any order. I suggest taking a demo run of __Automation_Script.py__ first(you might want to comment out the automatic reply part) and see if everything is working fine. Then, train the bot and run the entire script.
+    Note that you can do this in any order. I suggest taking a demo run of __Automation_Script.py__ first(comment out the automatic reply part) and see if everything is working fine. Then, train the bot and run the entire script.
